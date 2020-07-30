@@ -21,7 +21,7 @@ function About(){
             </div>
 
             <div className = "image">
-                <img src = "https://weedynews.com/static/images/93/princeton-university.png"/>          
+                <img src = "https://weedynews.com/static/images/93/princeton-university.png" alt ="conway"/>          
                
                 
             </div>
