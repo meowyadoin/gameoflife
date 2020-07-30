@@ -1,5 +1,7 @@
 CS unit 1 build week 
 Jess Novak
+### Deployed link
+https://distracted-bartik-6777cc.netlify.app/
 
 ***CONWAY'S GAME OF LIFE***
 
