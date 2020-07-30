@@ -1,0 +1,4 @@
+[build]
+base = "gameoflife/"
+publish = "build/"
+command = "npm run build"
